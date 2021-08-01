@@ -2,7 +2,7 @@
 name = "cz_conventional_commits"
 version = "0.1.0"
 version_files = [
-    "pysemver/__version__.py",
+    "pysemver/__init__.py",
     "pyproject.toml:version"
 ]
 style = [
