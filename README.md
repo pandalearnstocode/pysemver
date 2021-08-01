@@ -3,4 +3,4 @@
 
 Adding notes to readme file.
 
-bumping version.
+bumping version. building version.
