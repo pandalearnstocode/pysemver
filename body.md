@@ -1,6 +1,6 @@
-## 0.1.2 (2021-08-01)
+## 0.2.0 (2021-08-01)
 
-### Fix
+### Feat
 
-- adding new things.
+- bumping minor version.
 
