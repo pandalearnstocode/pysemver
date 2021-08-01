@@ -21,3 +21,7 @@ https://medium.com/@anthonypjshaw/azure-pipelines-with-python-by-example-aa65f40
 https://pypi.org/project/commitizen/
 https://github.com/commitizen-tools
 https://pydigger.com/pypi/commitizen
+
+## Pointers:
+* https://www.youtube.com/watch?v=UAsoSAgN4jo
+* https://www.youtube.com/watch?v=ecIWPzGEbFc
