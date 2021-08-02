@@ -1,6 +1,6 @@
-## 0.2.0 (2021-08-01)
+## 0.3.0 (2021-08-02)
 
 ### Feat
 
-- bumping minor version.
+- adding notes.
 
