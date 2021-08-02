@@ -29,14 +29,4 @@ https://pydigger.com/pypi/commitizen
 
 
 
-
-
-pymmm-de
-    data-gateway
-        L0 --> check_headers --> POST check_headers -{} ("sub-vehicle" --> "subtype") --> L1
-{}
-pymmm-ml
-    validator
-        check_headers
-        patch -->("subtype"-->"sub-vehicle") --> raise a ticket data team saying can we change this in source or should it remain as it is? [L0,L1] (L1 can be changed, L0 need to discuss with various team to understand does this in source makes sense with respect to all the data consumer or not.)
-pymmm-opt
+adding thing.
