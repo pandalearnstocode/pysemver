@@ -1,6 +1,6 @@
-## 0.3.1 (2021-08-03)
+## 0.4.0 (2021-08-03)
 
-### Fix
+### Feat
 
-- bumping a path.
+- adding feature 1.
 
