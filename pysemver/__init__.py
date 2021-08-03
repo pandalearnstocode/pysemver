@@ -2,4 +2,4 @@
 
 __author__ = """Aritra Biswas"""
 __email__ = 'pandalearnstocode@gmail.com'
-__version__ = '0.3.0'
+__version__ = '0.3.1'

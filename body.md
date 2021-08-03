@@ -1,6 +1,6 @@
-## 0.3.0 (2021-08-02)
+## 0.3.1 (2021-08-03)
 
-### Feat
+### Fix
 
-- adding notes.
+- bumping a path.
 
